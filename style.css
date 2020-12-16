@@ -1,0 +1,37 @@
+.forma-div{
+    margin: auto;
+    width: 878.84px;
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    display: inline-block;
+}
+.info {
+    margin: auto;
+    width: 878.84px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.item {
+    flex: 1 1;
+}
+ul {
+    list-style-type: none;
+}
+.btn {
+    width: 50px;
+}
+.category{
+    height: 30px;
+    width: 84px;
+}
+.items{
+    margin: auto;
+    width: 300px;
+}
+.godina {
+    height: 30px;
+    width: 84px;
+}
